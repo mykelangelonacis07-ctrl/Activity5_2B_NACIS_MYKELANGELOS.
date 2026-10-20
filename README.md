@@ -1,2 +1,0 @@
-# Activity5_2B_NACIS_MYKELANGELOS.
-Activity5-DSA
